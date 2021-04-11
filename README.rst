@@ -8,7 +8,7 @@ as a custom ``runserver`` command that issues livereload requests when the devel
 Installation
 ------------
 
-Install package: ::
+Install package:
 
   $ pip install django-livereload-server
 
